@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+notebook
+psycopg2-binary  # to connect PostgreSQL server
+sqlalchemy       # to load data to database
