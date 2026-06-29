@@ -47,6 +47,7 @@ The data was extracted, comprehensively cleaned, and transformed using Python (P
 - sales_analysis.ipynb   — Main EDA notebook and analytical workspace
 - superstore.csv         - original dataset from kaggle
 - Cleaned_sales_data.csv - cleaned sales data
+- requirements.txt       - library that are used in analysis
 
 
 ## 👤 Author
